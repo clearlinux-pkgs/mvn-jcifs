@@ -4,7 +4,7 @@
 #
 Name     : mvn-jcifs
 Version  : 1
-Release  : 2
+Release  : 3
 URL      : https://repo.gradle.org/gradle/libs-releases/org/samba/jcifs/jcifs/1.3.17/jcifs-1.3.17-sources.jar
 Source0  : https://repo.gradle.org/gradle/libs-releases/org/samba/jcifs/jcifs/1.3.17/jcifs-1.3.17-sources.jar
 Source1  : https://repo.gradle.org/gradle/libs-releases/org/samba/jcifs/jcifs/1.3.17/jcifs-1.3.17.jar
